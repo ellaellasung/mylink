@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Kitchen Deals (Edited)",
+    "description": "Save on essentials for your weekly cook.",
+    "regions": "UK",
+    "URL" : "http://www.google.com"
+  },
+  {
+    "id": 2,
+    "title": "Useful Link",
+    "description": "It is useful",
+    "regions": "UK",
+    "URL" : "http://www.gmail.com"
+  },
+  {
+    "id": 3,
+    "title": "Useful Link 2",
+    "description": "It is useful 2",
+    "regions": "DEFAULT",
+    "URL" : "http://www.yahoo.com.hk"
+  },
+  {
+    "id": 4,
+    "title": "Useful Link 2 (USA)",
+    "description": "It is useful 2",
+    "regions": "US",
+    "URL" : "http://www.yahoo.com.hk"
+  }
+]
