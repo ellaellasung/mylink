@@ -1,0 +1,29 @@
+[
+  {
+    "region": "US",
+    "program": "Walmart",
+    "baseUrl": "https://www.walmart.com/search?q=<KEYWORD>"
+  },
+  {
+    "region": "UK",
+    "program": "Tesco",
+    "baseUrl": "https://www.tesco.com/groceries/en-GB/search?query=<KEYWORD>"
+  },
+  {
+    "region": "UK",
+    "program": "Amazon",
+    "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
+    "affiliateTag": "&tag=uk_aff"
+  },
+  {
+    "region": "US",
+    "program": "Amazon",
+    "baseUrl": "https://www.amazon.com/s?k=<KEYWORD>",
+    "affiliateTag": "&tag=us_aff"
+  },
+  {
+    "region": "DEFAULT",
+    "program": "Amazon",
+    "baseUrl": "https://www.amazon.com/s?k=<KEYWORD>"
+  }
+]
