@@ -5,25 +5,7 @@
     "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
     "affiliateTag": "&tag=ellaellasun0f-21"
   },
-    {
-    "region": "UK",
-    "program": "Amazon 1",
-    "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
-    "affiliateTag": "&tag=ellaellasun0f-21"
-  },
-    {
-    "region": "UK",
-    "program": "Amazon 2",
-    "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
-    "affiliateTag": "&tag=ellaellasun0f-21"
-  },
-    {
-    "region": "UK",
-    "program": "Amazon 3",
-    "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
-    "affiliateTag": "&tag=ellaellasun0f-21"
-  },
-    {
+  {
     "region": "UK",
     "program": "Amazon",
     "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
@@ -39,6 +21,6 @@
     "region": "DEFAULT",
     "program": "Amazon",
     "baseUrl": "https://www.amazon.com/s?k=<KEYWORD>",
-     "affiliateTag": "&tag=ellaellasun00-20"
+    "affiliateTag": "&tag=ellaellasun00-20"
   }
 ]
