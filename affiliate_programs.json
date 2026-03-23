@@ -6,12 +6,6 @@
     "affiliateTag": "&tag=ellaellasun0f-21"
   },
   {
-    "region": "UK",
-    "program": "Amazon",
-    "baseUrl": "https://www.amazon.co.uk/s?k=<KEYWORD>",
-    "affiliateTag": "&tag=ellaellasun0f-21"
-  },
-  {
     "region": "US",
     "program": "Amazon",
     "baseUrl": "https://www.amazon.com/s?k=<KEYWORD>",
