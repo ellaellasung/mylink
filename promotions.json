@@ -1,30 +1,23 @@
 [
   {
     "id": 1,
-    "title": "Kitchen Deals (Edited)",
-    "description": "Save on essentials for your weekly cook. Blah Blah Blah Blah\n Blah Blah Blah\n Blah Blah Blah Blah\n Blah Blah Blah\n Blah Blah Blah Blah\n Blah Blah Blah\n Blah Blah Blah Blah\n Blah Blah Blah\n Blah Blah Blah Blah\n Blah Blah Blah\n Blah Blah Blah Blah\n Blah ",
+    "title": "Amazon Prime (UK)",
+    "description": "Sign up for Amazon Prime and get free shipping on eligible items, access to streaming of movies, TV shows, and music, exclusive shopping deals, and more.",
     "regions": "UK",
-    "URL" : "http://www.google.com"
+    "URL": "https://amzn.to/4bEIoDB"
   },
   {
     "id": 2,
-    "title": "Useful Link",
-    "description": "It is useful",
-    "regions": "UK",
-    "URL" : "http://www.gmail.com"
+    "title": "Amazon Prime",
+    "description": "Sign up for Amazon Prime and get free shipping on eligible items, access to streaming of movies, TV shows, and music, exclusive shopping deals, and more.",
+    "regions": "US",
+    "URL": "https://amzn.to/3Pka9Kq"
   },
   {
     "id": 3,
-    "title": "Useful Link 2",
-    "description": "It is useful 2",
+    "title": "Amazon Prime",
+    "description": "Sign up for Amazon Prime and get free shipping on eligible items, access to streaming of movies, TV shows, and music, exclusive shopping deals, and more.",
     "regions": "DEFAULT",
-    "URL" : "http://www.yahoo.com.hk"
-  },
-  {
-    "id": 4,
-    "title": "Useful Link 2 (USA)",
-    "description": "It is useful 2",
-    "regions": "US",
-    "URL" : "http://www.yahoo.com.hk"
+    "URL": "https://amzn.to/3Pka9Kq"
   }
 ]
